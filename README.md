@@ -201,7 +201,3 @@ This compiles `aj.ts` → `dist/aj.js` and makes it executable. After that, `aj`
 ## Dependencies
 
 Just one runtime dependency: [commander](https://github.com/tj/commander.js) for argument parsing. Everything else is Node.js built-ins.
-
-## License
-
-ISC
